@@ -1,6 +1,5 @@
 # app.py
 # This is my first commit
-# This is my second commit
 def add(a, b):
     return a + b
 
